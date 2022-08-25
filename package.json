@@ -1,0 +1,19 @@
+{
+  "name": "sends-journal",
+  "version": "0.0.1",
+  "description": "Journal of sends",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalindudc/sends-journal.git"
+  },
+  "author": "kalindudc",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kalindudc/sends-journal/issues"
+  },
+  "homepage": "https://github.com/kalindudc/sends-journal#readme"
+}
